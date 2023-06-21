@@ -2,8 +2,8 @@
 
 
 	/**
-	 * print_alphabet - print all alphabet in lowercase
-	 *Return : 0
+	 * print_alphabet - Make the alphabet
+	 *Return : void
 	 */
 
 
